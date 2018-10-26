@@ -1,0 +1,23 @@
+{
+  "name": "lazy-laod",
+  "version": "1.0.0",
+  "description": "图片懒加载",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangKXX/lazy-load.git"
+  },
+  "keywords": [
+    "lazyload\u001b[D\u001b[D\u001b[D\u001b[D",
+    "\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[load"
+  ],
+  "author": "mrtwang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangKXX/lazy-load/issues"
+  },
+  "homepage": "https://github.com/wangKXX/lazy-load#readme"
+}
